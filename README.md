@@ -22,3 +22,6 @@ Aprender a controlar versiones, trabajar con ramas y colaborar mediante GitHub.
 
 ## Autor
 Bethzy Salcido
+
+## Estado del proyecto
+Prototipo inicial.
